@@ -41,6 +41,13 @@ p {
     line-height: 26px;
 }
 
+button {
+    font-family: "Droid Serif", serif;
+    font-size: 18px;
+    line-height: 26px;
+    margin: 35px 0;
+}
+
 header {
     background-color: #f15b31;
     color: #ffffff;
@@ -85,6 +92,12 @@ img {
 .name {
     color: #F15B31;
     font-weight: 700;
+}
+
+.score {
+    font-family: "Droid Serif", serif;
+    font-size: 18px;
+    line-height: 26px;
 }
 
 .clearfix:after {
